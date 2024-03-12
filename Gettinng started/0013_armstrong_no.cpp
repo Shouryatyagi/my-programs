@@ -1,5 +1,5 @@
 // Any number that satisfies the following format –
-// abcd… = an + bn + cn + dn + …
+// abcd… = a^n + b^n + c^n + d^n + …
 // Where n is the order(length/digits in number)
 
 
