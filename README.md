@@ -7,3 +7,7 @@ topics to do in future -
 4)-Basic Dynamic Programming
 5)-Binary Searching
 6)-Basic searching
+
+
+Question remaining-
+count the number of possible decoding of digits
