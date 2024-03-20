@@ -11,3 +11,4 @@ topics to do in future -
 
 Question remaining-
 count the number of possible decoding of digits
+Last non zero digit in factorial
