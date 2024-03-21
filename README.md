@@ -13,3 +13,4 @@ Question remaining-
 count the number of possible decoding of digits
 Last non zero digit in factorial
 all combinations of balanced parenthesis
+binary no having more or equal onesthanzero
